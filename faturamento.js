@@ -10,4 +10,4 @@ var porcentagem = (SP * 100)/total
 
 console.log(total)
 
-console.log(porcentagem `${"%"}`)
+console.log(porcentagem)
